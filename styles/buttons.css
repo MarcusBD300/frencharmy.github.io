@@ -1,0 +1,20 @@
+.btn-blue {
+	background-color: rgb(0, 171, 240);
+	color: white;
+	font-weight: bold;
+	padding: 16px;
+	border-radius: 6px;
+	position: relative;
+	bottom: -50px;
+}
+
+.btn-grey {
+	align-items: inline;
+	background-color: rgb(211, 211, 211);
+	color: black;
+	padding: 14px;
+	border-radius: 6px;
+	position: relative;
+	bottom: 350px;
+	margin: 40px;
+}

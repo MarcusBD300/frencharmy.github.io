@@ -1,0 +1,65 @@
+.card-white {
+	background-color: rgb(211, 211, 211);
+	border-radius: 6px;
+	padding: 16px;
+	margin: 6px;
+	align-content: center;
+}
+
+.titleone h3 {
+	position: relative;
+	left: 315px;
+	text-align: left;
+}
+
+.imagetypeone img {
+	height: 220px;
+	width: 300px;
+	object-fit: cover;
+	float: left;
+	position: relative;
+	top: -57px;
+}
+
+.texttypeone p {
+	position: relative;
+	right: -15px;
+	text-align: left;
+}
+
+.titletwo h3 {
+	position: relative;
+	right: -680px;
+	text-align: left;
+}
+
+.imagetypetwo img {
+	height: 220px;
+	width: 300px;
+	object-fit: cover;
+	float: right;
+	position: relative;
+	top: -57px;
+}
+
+.texttypetwo p {
+	position: relative;
+	right: 6px;
+	top: -10px;
+	text-align: left;
+}
+
+.titlethree h3 {
+	position: relative;
+	right: -600px;
+	text-align: left;
+}
+
+.cards {
+	display: block;
+}
+
+.paragraph h3 {
+	text-align: center;
+}
+
